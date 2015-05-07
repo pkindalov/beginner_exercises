@@ -3,8 +3,10 @@
 
     class OddOrEvenIntegers
     {
-        static void Main(string[] args)
+        static void Main()
         {
+
+            //Write an expression that checks if given integer is odd or even.
 
              bool isOdd = false;
             Console.WriteLine("Enter some number: ");
