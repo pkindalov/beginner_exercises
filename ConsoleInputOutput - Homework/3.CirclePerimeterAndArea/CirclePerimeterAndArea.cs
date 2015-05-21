@@ -8,6 +8,8 @@ using System.Globalization;
     {
         static void Main()
         {
+            //Write a program that reads the radius r of a circle and prints its perimeter and area formatted with 2 digits after the decimal point.
+
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
             Console.Write("Enter radius: ");
