@@ -13,11 +13,11 @@ using System.Globalization;
                                                                                 //broke down when we entered symbols - ',' or '.' depends of environment
                                                                                  
             Console.WriteLine("Enter first number: ");
-            double userNumber1 = double.Parse(Console.ReadLine());
+            double userNumber1 = double.Parse(Console.ReadLine().Replace(',', '.'));
             Console.WriteLine("Enter second number: ");
-            double userNumber2 = double.Parse(Console.ReadLine());
+            double userNumber2 = double.Parse(Console.ReadLine().Replace(',', '.'));
             Console.WriteLine("Enter a third number: ");
-            double userNumber3 = double.Parse(Console.ReadLine());
+            double userNumber3 = double.Parse(Console.ReadLine().Replace(',', '.'));
 
             double sum = (double)(userNumber1 + userNumber2 + userNumber3);
 
