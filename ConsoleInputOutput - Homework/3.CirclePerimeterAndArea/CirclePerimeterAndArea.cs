@@ -13,9 +13,9 @@ using System.Globalization;
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
             Console.Write("Enter radius: ");
-            double r = double.Parse(Console.ReadLine());
+            double r = double.Parse(Console.ReadLine().Replace(',', '.'));
             Console.Write("Enter a perimeter: ");
-            double perimeter = double.Parse(Console.ReadLine());
+            double perimeter = double.Parse(Console.ReadLine().Replace(',', '.'));
 
             double area = (r * perimeter) / 2;
 
