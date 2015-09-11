@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.exchangeIfGreater", "1.ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.sort3NumbersWithNestedIFS", "7.sort3NumbersWithNestedIFS\7.sort3NumbersWithNestedIFS.csproj", "{A59D19A7-EC6B-47C4-8676-664D447C4B15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.digitAsWord", "8.digitAsWord\8.digitAsWord.csproj", "{8325CCA6-EC54-48C2-BDF1-53407EE77207}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A59D19A7-EC6B-47C4-8676-664D447C4B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59D19A7-EC6B-47C4-8676-664D447C4B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59D19A7-EC6B-47C4-8676-664D447C4B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8325CCA6-EC54-48C2-BDF1-53407EE77207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8325CCA6-EC54-48C2-BDF1-53407EE77207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8325CCA6-EC54-48C2-BDF1-53407EE77207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8325CCA6-EC54-48C2-BDF1-53407EE77207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
