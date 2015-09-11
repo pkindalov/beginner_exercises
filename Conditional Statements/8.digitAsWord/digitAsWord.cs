@@ -6,7 +6,7 @@ using System.Globalization;
 
     class digitAsWord
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
             //Problem 8. Digit as Word

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.sort3NumbersWithNestedIFS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.digitAsWord", "8.digitAsWord\8.digitAsWord.csproj", "{8325CCA6-EC54-48C2-BDF1-53407EE77207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.playWithIntDoubleString", "9.playWithIntDoubleString\9.playWithIntDoubleString.csproj", "{A6BA5B8F-3FFE-414D-ACB5-8C78497BA789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{8325CCA6-EC54-48C2-BDF1-53407EE77207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8325CCA6-EC54-48C2-BDF1-53407EE77207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8325CCA6-EC54-48C2-BDF1-53407EE77207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BA5B8F-3FFE-414D-ACB5-8C78497BA789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BA5B8F-3FFE-414D-ACB5-8C78497BA789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BA5B8F-3FFE-414D-ACB5-8C78497BA789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BA5B8F-3FFE-414D-ACB5-8C78497BA789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
