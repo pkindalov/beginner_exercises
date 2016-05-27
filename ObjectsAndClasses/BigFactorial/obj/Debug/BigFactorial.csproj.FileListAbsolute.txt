@@ -1,0 +1,5 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\BigFactorial\obj\Debug\BigFactorial.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\BigFactorial\obj\Debug\BigFactorial.pdb

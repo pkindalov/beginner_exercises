@@ -1,0 +1,6 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\BuildAMatrixOfLetters\bin\Debug\BuildAMatrixOfLetters.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\BuildAMatrixOfLetters\bin\Debug\BuildAMatrixOfLetters.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\BuildAMatrixOfLetters\bin\Debug\BuildAMatrixOfLetters.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\BuildAMatrixOfLetters\obj\Debug\BuildAMatrixOfLetters.csprojResolveAssemblyReference.cache
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\BuildAMatrixOfLetters\obj\Debug\BuildAMatrixOfLetters.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\BuildAMatrixOfLetters\obj\Debug\BuildAMatrixOfLetters.pdb

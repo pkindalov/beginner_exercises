@@ -1,0 +1,9 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumArrays\bin\Debug\SumArrays.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumArrays\bin\Debug\SumArrays.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumArrays\bin\Debug\SumArrays.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumArrays\obj\Debug\SumArrays.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumArrays\obj\Debug\SumArrays.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumArrays\obj\Debug\SumArrays.pdb
+C:\Users\Panayot\documents\visual studio 2015\Projects\Arrays\SumArrays\bin\Debug\SumArrays.exe.config
+C:\Users\Panayot\documents\visual studio 2015\Projects\Arrays\SumArrays\obj\Debug\SumArrays.exe
+C:\Users\Panayot\documents\visual studio 2015\Projects\Arrays\SumArrays\obj\Debug\SumArrays.pdb

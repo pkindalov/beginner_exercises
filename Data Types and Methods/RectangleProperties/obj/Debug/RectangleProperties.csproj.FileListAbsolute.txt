@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\RectangleProperties\bin\Debug\RectangleProperties.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\RectangleProperties\bin\Debug\RectangleProperties.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\RectangleProperties\bin\Debug\RectangleProperties.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\RectangleProperties\obj\Debug\RectangleProperties.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\RectangleProperties\obj\Debug\RectangleProperties.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\RectangleProperties\obj\Debug\RectangleProperties.csprojResolveAssemblyReference.cache

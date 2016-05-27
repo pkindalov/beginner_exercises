@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\FitBoxInBox\bin\Debug\FitBoxInBox.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\FitBoxInBox\bin\Debug\FitBoxInBox.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\FitBoxInBox\bin\Debug\FitBoxInBox.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\FitBoxInBox\obj\Debug\FitBoxInBox.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\FitBoxInBox\obj\Debug\FitBoxInBox.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\FitBoxInBox\obj\Debug\FitBoxInBox.pdb

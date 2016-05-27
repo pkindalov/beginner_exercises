@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MasterNumbers\bin\Debug\MasterNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MasterNumbers\bin\Debug\MasterNumbers.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MasterNumbers\obj\Debug\MasterNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MasterNumbers\obj\Debug\MasterNumbers.pdb

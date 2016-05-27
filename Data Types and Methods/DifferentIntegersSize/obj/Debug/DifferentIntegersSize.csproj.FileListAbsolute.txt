@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\PassionDays\bin\Debug\PassionDays.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\PassionDays\bin\Debug\PassionDays.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\PassionDays\bin\Debug\PassionDays.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\PassionDays\obj\Debug\PassionDays.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\PassionDays\obj\Debug\PassionDays.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\PassionDays\obj\Debug\PassionDays.pdb

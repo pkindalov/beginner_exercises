@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\MelonsАndWatermelons\bin\Debug\MelonsАndWatermelons.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\MelonsАndWatermelons\bin\Debug\MelonsАndWatermelons.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\MelonsАndWatermelons\bin\Debug\MelonsАndWatermelons.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\MelonsАndWatermelons\obj\Debug\MelonsАndWatermelons.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\MelonsАndWatermelons\obj\Debug\MelonsАndWatermelons.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\MelonsАndWatermelons\obj\Debug\MelonsАndWatermelons.pdb

@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ReverseCharacters\obj\Debug\ReverseCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

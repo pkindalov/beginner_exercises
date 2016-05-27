@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\GameOfNames\bin\Debug\GameOfNames.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\GameOfNames\bin\Debug\GameOfNames.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\GameOfNames\bin\Debug\GameOfNames.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\GameOfNames\obj\Debug\GameOfNames.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\GameOfNames\obj\Debug\GameOfNames.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\GameOfNames\obj\Debug\GameOfNames.pdb

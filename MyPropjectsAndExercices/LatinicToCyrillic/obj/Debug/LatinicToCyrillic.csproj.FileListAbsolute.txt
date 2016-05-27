@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LatinicToCyrillic\bin\Debug\LatinicToCyrillic.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LatinicToCyrillic\bin\Debug\LatinicToCyrillic.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LatinicToCyrillic\bin\Debug\LatinicToCyrillic.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LatinicToCyrillic\obj\Debug\LatinicToCyrillic.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LatinicToCyrillic\obj\Debug\LatinicToCyrillic.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LatinicToCyrillic\obj\Debug\LatinicToCyrillic.pdb

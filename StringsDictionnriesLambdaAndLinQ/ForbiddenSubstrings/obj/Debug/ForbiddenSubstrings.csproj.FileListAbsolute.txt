@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ForbiddenSubstrings\bin\Debug\ForbiddenSubstrings.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ForbiddenSubstrings\bin\Debug\ForbiddenSubstrings.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ForbiddenSubstrings\bin\Debug\ForbiddenSubstrings.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ForbiddenSubstrings\obj\Debug\ForbiddenSubstrings.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ForbiddenSubstrings\obj\Debug\ForbiddenSubstrings.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ForbiddenSubstrings\obj\Debug\ForbiddenSubstrings.pdb

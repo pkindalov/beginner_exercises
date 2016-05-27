@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\StringAndObjects\bin\Debug\StringAndObjects.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\StringAndObjects\bin\Debug\StringAndObjects.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\StringAndObjects\bin\Debug\StringAndObjects.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\StringAndObjects\obj\Debug\StringAndObjects.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\StringAndObjects\obj\Debug\StringAndObjects.pdb

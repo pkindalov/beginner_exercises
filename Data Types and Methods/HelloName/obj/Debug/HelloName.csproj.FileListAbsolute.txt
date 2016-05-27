@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\HelloName\bin\Debug\HelloName.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\HelloName\bin\Debug\HelloName.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\HelloName\obj\Debug\HelloName.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\HelloName\obj\Debug\HelloName.pdb

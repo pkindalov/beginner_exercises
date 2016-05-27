@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\Butterfly\bin\Debug\Butterfly.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\Butterfly\obj\Debug\Butterfly.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\Butterfly\obj\Debug\Butterfly.pdb

@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

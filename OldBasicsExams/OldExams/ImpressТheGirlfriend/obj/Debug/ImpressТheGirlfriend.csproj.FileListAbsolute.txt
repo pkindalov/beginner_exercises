@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\ImpressТheGirlfriend\bin\Debug\ImpressТheGirlfriend.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\ImpressТheGirlfriend\bin\Debug\ImpressТheGirlfriend.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\ImpressТheGirlfriend\bin\Debug\ImpressТheGirlfriend.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\ImpressТheGirlfriend\obj\Debug\ImpressТheGirlfriend.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\ImpressТheGirlfriend\obj\Debug\ImpressТheGirlfriend.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\ImpressТheGirlfriend\obj\Debug\ImpressТheGirlfriend.pdb

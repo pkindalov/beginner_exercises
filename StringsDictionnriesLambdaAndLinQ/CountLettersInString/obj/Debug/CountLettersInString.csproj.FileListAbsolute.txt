@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountLettersInString\bin\Debug\CountLettersInString.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountLettersInString\bin\Debug\CountLettersInString.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountLettersInString\bin\Debug\CountLettersInString.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountLettersInString\obj\Debug\CountLettersInString.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountLettersInString\obj\Debug\CountLettersInString.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CountLettersInString\obj\Debug\CountLettersInString.pdb

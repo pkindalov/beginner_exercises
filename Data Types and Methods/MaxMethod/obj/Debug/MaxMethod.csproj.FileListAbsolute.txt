@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MaxMethod\bin\Debug\MaxMethod.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MaxMethod\bin\Debug\MaxMethod.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MaxMethod\bin\Debug\MaxMethod.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MaxMethod\obj\Debug\MaxMethod.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\MaxMethod\obj\Debug\MaxMethod.pdb

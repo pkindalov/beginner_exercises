@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

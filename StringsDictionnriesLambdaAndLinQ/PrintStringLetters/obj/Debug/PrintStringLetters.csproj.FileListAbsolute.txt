@@ -1,0 +1,5 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintStringLetters\bin\Debug\PrintStringLetters.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintStringLetters\bin\Debug\PrintStringLetters.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintStringLetters\bin\Debug\PrintStringLetters.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintStringLetters\obj\Debug\PrintStringLetters.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintStringLetters\obj\Debug\PrintStringLetters.pdb

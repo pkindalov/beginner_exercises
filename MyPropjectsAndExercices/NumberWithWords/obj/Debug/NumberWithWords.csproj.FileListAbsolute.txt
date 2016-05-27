@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\NumberWithWords\bin\Debug\NumberWithWords.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\NumberWithWords\bin\Debug\NumberWithWords.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\NumberWithWords\bin\Debug\NumberWithWords.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\NumberWithWords\obj\Debug\NumberWithWords.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\NumberWithWords\obj\Debug\NumberWithWords.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\NumberWithWords\obj\Debug\NumberWithWords.pdb

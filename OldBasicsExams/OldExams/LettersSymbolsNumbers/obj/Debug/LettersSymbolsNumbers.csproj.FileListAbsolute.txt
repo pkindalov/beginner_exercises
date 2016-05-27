@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.pdb

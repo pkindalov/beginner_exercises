@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\AceOfDiamonds\obj\Debug\AceOfDiamonds.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb

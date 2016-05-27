@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.pdb

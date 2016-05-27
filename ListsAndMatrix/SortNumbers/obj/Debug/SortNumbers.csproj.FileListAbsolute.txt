@@ -1,0 +1,6 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SortNumbers\bin\Debug\SortNumbers.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SortNumbers\bin\Debug\SortNumbers.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SortNumbers\bin\Debug\SortNumbers.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SortNumbers\obj\Debug\SortNumbers.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SortNumbers\obj\Debug\SortNumbers.pdb

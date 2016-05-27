@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\SequenceOfKNumbers\obj\Debug\SequenceOfKNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\SequenceOfKNumbers\obj\Debug\SequenceOfKNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\SequenceOfKNumbers\obj\Debug\SequenceOfKNumbers.pdb

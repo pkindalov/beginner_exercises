@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OddOccurrences\bin\Debug\OddOccurrences.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OddOccurrences\bin\Debug\OddOccurrences.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OddOccurrences\bin\Debug\OddOccurrences.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OddOccurrences\obj\Debug\OddOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OddOccurrences\obj\Debug\OddOccurrences.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OddOccurrences\obj\Debug\OddOccurrences.pdb

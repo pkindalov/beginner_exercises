@@ -1,0 +1,6 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\ListExample\bin\Debug\ListExample.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\ListExample\bin\Debug\ListExample.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\ListExample\bin\Debug\ListExample.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\ListExample\obj\Debug\ListExample.csprojResolveAssemblyReference.cache
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\ListExample\obj\Debug\ListExample.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\ListExample\obj\Debug\ListExample.pdb

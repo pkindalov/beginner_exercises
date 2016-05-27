@@ -1,0 +1,9 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\Solution1\HungryGarfield\bin\Debug\HungryGarfield.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\Solution1\HungryGarfield\bin\Debug\HungryGarfield.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\Solution1\HungryGarfield\bin\Debug\HungryGarfield.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\Solution1\HungryGarfield\obj\Debug\HungryGarfield.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\Solution1\HungryGarfield\obj\Debug\HungryGarfield.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\Solution1\HungryGarfield\obj\Debug\HungryGarfield.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\HungryGarfield\bin\Debug\HungryGarfield.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\HungryGarfield\obj\Debug\HungryGarfield.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\OldExams\HungryGarfield\obj\Debug\HungryGarfield.pdb

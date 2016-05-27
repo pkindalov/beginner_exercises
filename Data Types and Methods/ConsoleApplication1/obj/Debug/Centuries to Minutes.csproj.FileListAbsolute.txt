@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConsoleApplication1\obj\Debug\Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

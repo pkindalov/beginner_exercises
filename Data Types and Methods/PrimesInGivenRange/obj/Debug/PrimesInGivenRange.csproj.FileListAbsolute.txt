@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.csprojResolveAssemblyReference.cache

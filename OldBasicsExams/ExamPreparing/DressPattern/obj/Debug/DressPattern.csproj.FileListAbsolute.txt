@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\DressPattern\bin\Debug\DressPattern.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\DressPattern\bin\Debug\DressPattern.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\DressPattern\bin\Debug\DressPattern.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\DressPattern\obj\Debug\DressPattern.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\DressPattern\obj\Debug\DressPattern.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\DressPattern\obj\Debug\DressPattern.pdb

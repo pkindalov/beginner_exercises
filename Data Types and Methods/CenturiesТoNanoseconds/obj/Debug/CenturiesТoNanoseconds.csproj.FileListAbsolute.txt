@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\CenturiesТoNanoseconds\bin\Debug\CenturiesТoNanoseconds.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\CenturiesТoNanoseconds\bin\Debug\CenturiesТoNanoseconds.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\CenturiesТoNanoseconds\bin\Debug\CenturiesТoNanoseconds.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\CenturiesТoNanoseconds\obj\Debug\CenturiesТoNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\CenturiesТoNanoseconds\obj\Debug\CenturiesТoNanoseconds.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\CenturiesТoNanoseconds\obj\Debug\CenturiesТoNanoseconds.pdb

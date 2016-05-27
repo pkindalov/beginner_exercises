@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SieveOfErathosten\bin\Debug\SieveOfErathosten.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SieveOfErathosten\bin\Debug\SieveOfErathosten.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SieveOfErathosten\bin\Debug\SieveOfErathosten.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SieveOfErathosten\obj\Debug\SieveOfErathosten.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SieveOfErathosten\obj\Debug\SieveOfErathosten.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SieveOfErathosten\obj\Debug\SieveOfErathosten.pdb

@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\Nacepin\bin\Debug\Nacepin.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\Nacepin\bin\Debug\Nacepin.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\Nacepin\bin\Debug\Nacepin.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\Nacepin\obj\Debug\Nacepin.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\Nacepin\obj\Debug\Nacepin.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\OldBasicsExams\ExamPreparing\Nacepin\obj\Debug\Nacepin.pdb

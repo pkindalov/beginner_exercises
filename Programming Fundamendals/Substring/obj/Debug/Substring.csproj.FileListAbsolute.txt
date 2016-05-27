@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\Substring\bin\Debug\Substring.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\Substring\bin\Debug\Substring.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\Substring\bin\Debug\Substring.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\Substring\obj\Debug\Substring.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\Substring\obj\Debug\Substring.pdb

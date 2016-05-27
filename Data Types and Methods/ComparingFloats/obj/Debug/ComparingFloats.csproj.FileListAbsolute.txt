@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ComparingFloats\obj\Debug\ComparingFloats.pdb

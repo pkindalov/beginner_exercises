@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintAReceipt\bin\Debug\PrintAReceipt.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintAReceipt\bin\Debug\PrintAReceipt.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintAReceipt\bin\Debug\PrintAReceipt.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintAReceipt\obj\Debug\PrintAReceipt.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintAReceipt\obj\Debug\PrintAReceipt.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\PrintAReceipt\obj\Debug\PrintAReceipt.pdb

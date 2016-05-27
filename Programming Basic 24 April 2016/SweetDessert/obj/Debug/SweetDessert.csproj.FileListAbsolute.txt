@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\SweetDessert\bin\Debug\SweetDessert.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\SweetDessert\obj\Debug\SweetDessert.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\SweetDessert\bin\Debug\SweetDessert.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\SweetDessert\bin\Debug\SweetDessert.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\SweetDessert\obj\Debug\SweetDessert.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\SweetDessert\obj\Debug\SweetDessert.pdb

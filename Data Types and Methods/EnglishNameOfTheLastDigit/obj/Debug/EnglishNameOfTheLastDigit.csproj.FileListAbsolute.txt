@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.pdb

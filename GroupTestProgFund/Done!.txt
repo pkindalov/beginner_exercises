@@ -1,0 +1,10 @@
+Summary:
+Creating a new branch via git bash
+
+Steps to reproduce:
+1.Just do it!
+
+Expected result:
+-Create a new branch
+
+Success!

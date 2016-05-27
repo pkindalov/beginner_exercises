@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\LastKNumbersSum\bin\Debug\LastKNumbersSum.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\LastKNumbersSum\bin\Debug\LastKNumbersSum.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\LastKNumbersSum\bin\Debug\LastKNumbersSum.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\LastKNumbersSum\obj\Debug\LastKNumbersSum.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\LastKNumbersSum\obj\Debug\LastKNumbersSum.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\LastKNumbersSum\obj\Debug\LastKNumbersSum.csprojResolveAssemblyReference.cache

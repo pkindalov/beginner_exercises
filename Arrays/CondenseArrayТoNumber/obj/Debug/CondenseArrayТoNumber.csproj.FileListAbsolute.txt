@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\CondenseArrayТoNumber\bin\Debug\CondenseArrayТoNumber.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\CondenseArrayТoNumber\bin\Debug\CondenseArrayТoNumber.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\CondenseArrayТoNumber\bin\Debug\CondenseArrayТoNumber.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\CondenseArrayТoNumber\obj\Debug\CondenseArrayТoNumber.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\CondenseArrayТoNumber\obj\Debug\CondenseArrayТoNumber.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\CondenseArrayТoNumber\obj\Debug\CondenseArrayТoNumber.pdb

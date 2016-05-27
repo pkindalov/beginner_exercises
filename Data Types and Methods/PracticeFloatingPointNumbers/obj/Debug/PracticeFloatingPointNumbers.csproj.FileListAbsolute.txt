@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb

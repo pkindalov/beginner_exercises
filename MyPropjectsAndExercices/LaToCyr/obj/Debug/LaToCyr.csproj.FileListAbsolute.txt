@@ -1,0 +1,10 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\bin\Debug\LaToCyr.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\bin\Debug\LaToCyr.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\bin\Debug\LaToCyr.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\obj\Debug\LaToCyr.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\obj\Debug\LaToCyr.Properties.Resources.resources
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\obj\Debug\LaToCyr.csproj.GenerateResource.Cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\obj\Debug\LaToCyr.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\obj\Debug\LaToCyr.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\obj\Debug\LaToCyr.frmMain.resources
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\LaToCyr\obj\Debug\LaToCyr.Form2.resources

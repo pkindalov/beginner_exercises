@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.pdb

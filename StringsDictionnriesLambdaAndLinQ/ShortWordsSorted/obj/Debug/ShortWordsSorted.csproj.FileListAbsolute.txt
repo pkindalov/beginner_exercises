@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ShortWordsSorted\obj\Debug\ShortWordsSorted.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

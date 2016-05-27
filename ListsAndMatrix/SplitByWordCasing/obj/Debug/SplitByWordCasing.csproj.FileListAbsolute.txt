@@ -1,0 +1,6 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SplitByWordCasing\obj\Debug\SplitByWordCasing.csprojResolveAssemblyReference.cache
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb

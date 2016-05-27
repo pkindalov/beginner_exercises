@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

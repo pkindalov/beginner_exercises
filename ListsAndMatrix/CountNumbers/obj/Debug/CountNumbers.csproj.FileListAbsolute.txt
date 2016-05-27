@@ -1,0 +1,5 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\CountNumbers\bin\Debug\CountNumbers.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\CountNumbers\bin\Debug\CountNumbers.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\CountNumbers\bin\Debug\CountNumbers.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\CountNumbers\obj\Debug\CountNumbers.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\CountNumbers\obj\Debug\CountNumbers.pdb

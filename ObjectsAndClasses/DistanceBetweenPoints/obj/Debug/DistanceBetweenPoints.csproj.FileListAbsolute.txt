@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.pdb

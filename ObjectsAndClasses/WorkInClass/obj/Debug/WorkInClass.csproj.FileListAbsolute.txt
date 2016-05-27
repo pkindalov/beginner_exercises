@@ -1,0 +1,6 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\WorkInClass\bin\Debug\WorkInClass.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\WorkInClass\bin\Debug\WorkInClass.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\WorkInClass\bin\Debug\WorkInClass.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\WorkInClass\obj\Debug\WorkInClass.csprojResolveAssemblyReference.cache
+c:\users\genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\WorkInClass\obj\Debug\WorkInClass.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ObjectsAndClasses\WorkInClass\obj\Debug\WorkInClass.pdb

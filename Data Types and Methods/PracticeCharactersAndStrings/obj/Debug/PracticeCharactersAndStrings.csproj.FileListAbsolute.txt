@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Data Types and Methods\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

@@ -1,0 +1,6 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\VegetableMarket\bin\Debug\VegetableMarket.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\VegetableMarket\bin\Debug\VegetableMarket.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\VegetableMarket\bin\Debug\VegetableMarket.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\VegetableMarket\obj\Debug\VegetableMarket.csprojResolveAssemblyReference.cache
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\VegetableMarket\obj\Debug\VegetableMarket.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\VegetableMarket\obj\Debug\VegetableMarket.pdb

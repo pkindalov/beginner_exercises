@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.pdb

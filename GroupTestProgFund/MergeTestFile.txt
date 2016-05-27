@@ -1,0 +1,15 @@
+asdasdaasd
+fghfghfghfgh
+zxczxczxczc
+<<<<<<< HEAD
+cvbcvbcvbc
+qweqweqweqwe
+=======
+cvbcvbcvbccvbcvbcvbcvb
+>>>>>>> b87eb2c9f81fa2434bc0c1e9aeb1943a04605e38
+Didn't fix it on purpose
+HEAD = server
+======= - represents the line that separates changes
+below the line are the local changes
+
+Testing with branch

@@ -1,0 +1,6 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OccurrencesInString\bin\Debug\OccurrencesInString.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OccurrencesInString\bin\Debug\OccurrencesInString.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OccurrencesInString\bin\Debug\OccurrencesInString.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OccurrencesInString\obj\Debug\OccurrencesInString.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OccurrencesInString\obj\Debug\OccurrencesInString.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\OccurrencesInString\obj\Debug\OccurrencesInString.pdb

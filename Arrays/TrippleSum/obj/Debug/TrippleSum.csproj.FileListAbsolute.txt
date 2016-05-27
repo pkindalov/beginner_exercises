@@ -1,0 +1,5 @@
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\TrippleSum\bin\Debug\TrippleSum.exe.config
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\TrippleSum\bin\Debug\TrippleSum.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\TrippleSum\bin\Debug\TrippleSum.pdb
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\TrippleSum\obj\Debug\TrippleSum.exe
+C:\Users\Genoveva\documents\visual studio 2015\Projects\Arrays\TrippleSum\obj\Debug\TrippleSum.pdb

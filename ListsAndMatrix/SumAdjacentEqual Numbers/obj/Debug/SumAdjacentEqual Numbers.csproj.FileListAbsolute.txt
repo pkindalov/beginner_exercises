@@ -1,0 +1,6 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SumAdjacentEqual Numbers\bin\Debug\SumAdjacentEqual Numbers.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SumAdjacentEqual Numbers\bin\Debug\SumAdjacentEqual Numbers.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SumAdjacentEqual Numbers\bin\Debug\SumAdjacentEqual Numbers.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SumAdjacentEqual Numbers\obj\Debug\SumAdjacentEqual Numbers.csprojResolveAssemblyReference.cache
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SumAdjacentEqual Numbers\obj\Debug\SumAdjacentEqual Numbers.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\SumAdjacentEqual Numbers\obj\Debug\SumAdjacentEqual Numbers.pdb

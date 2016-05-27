@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strawberry\bin\Debug\Strawberry.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strawberry\bin\Debug\Strawberry.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strawberry\bin\Debug\Strawberry.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strawberry\obj\Debug\Strawberry.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strawberry\obj\Debug\Strawberry.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strawberry\obj\Debug\Strawberry.csprojResolveAssemblyReference.cache

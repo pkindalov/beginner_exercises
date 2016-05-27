@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strewberry2\bin\Debug\Strewberry2.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strewberry2\bin\Debug\Strewberry2.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strewberry2\bin\Debug\Strewberry2.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strewberry2\obj\Debug\Strewberry2.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Basic 24 April 2016\Strewberry2\obj\Debug\Strewberry2.pdb

@@ -1,0 +1,9 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\Arrays\ArraysExercise\bin\Debug\ArraysExercise.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\Arrays\ArraysExercise\bin\Debug\ArraysExercise.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\Arrays\ArraysExercise\bin\Debug\ArraysExercise.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\Arrays\ArraysExercise\obj\Debug\ArraysExercise.csprojResolveAssemblyReference.cache
+c:\users\genoveva\documents\visual studio 2015\Projects\Arrays\ArraysExercise\obj\Debug\ArraysExercise.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\Arrays\ArraysExercise\obj\Debug\ArraysExercise.pdb
+C:\Users\Panayot\documents\visual studio 2015\Projects\Arrays\ArraysExercise\bin\Debug\ArraysExercise.exe.config
+C:\Users\Panayot\documents\visual studio 2015\Projects\Arrays\ArraysExercise\obj\Debug\ArraysExercise.exe
+C:\Users\Panayot\documents\visual studio 2015\Projects\Arrays\ArraysExercise\obj\Debug\ArraysExercise.pdb

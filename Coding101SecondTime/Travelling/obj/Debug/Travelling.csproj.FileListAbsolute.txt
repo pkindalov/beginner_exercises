@@ -1,0 +1,5 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\Travelling\bin\Debug\Travelling.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\Travelling\bin\Debug\Travelling.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\Travelling\bin\Debug\Travelling.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\Travelling\obj\Debug\Travelling.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\Travelling\obj\Debug\Travelling.pdb

@@ -1,0 +1,5 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\DeleteNoRest\bin\Debug\DeleteNoRest.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\DeleteNoRest\bin\Debug\DeleteNoRest.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\DeleteNoRest\bin\Debug\DeleteNoRest.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\DeleteNoRest\obj\Debug\DeleteNoRest.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\Coding101SecondTime\DeleteNoRest\obj\Debug\DeleteNoRest.pdb

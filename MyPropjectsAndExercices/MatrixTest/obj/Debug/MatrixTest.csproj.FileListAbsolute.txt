@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\MatrixTest\bin\Debug\MatrixTest.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\MatrixTest\bin\Debug\MatrixTest.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\MatrixTest\bin\Debug\MatrixTest.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\MatrixTest\obj\Debug\MatrixTest.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\MatrixTest\obj\Debug\MatrixTest.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\MyPropjectsAndExercices\MatrixTest\obj\Debug\MatrixTest.pdb

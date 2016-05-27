@@ -1,0 +1,5 @@
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\RemoveNegativeAndReverse\bin\Debug\RemoveNegativeAndReverse.exe.config
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\RemoveNegativeAndReverse\bin\Debug\RemoveNegativeAndReverse.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\RemoveNegativeAndReverse\bin\Debug\RemoveNegativeAndReverse.pdb
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\RemoveNegativeAndReverse\obj\Debug\RemoveNegativeAndReverse.exe
+c:\users\genoveva\documents\visual studio 2015\Projects\ListsAndMatrix\RemoveNegativeAndReverse\obj\Debug\RemoveNegativeAndReverse.pdb

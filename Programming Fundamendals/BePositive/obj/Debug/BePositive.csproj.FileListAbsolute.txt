@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\BePositive\bin\Debug\BePositive.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\BePositive\bin\Debug\BePositive.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\BePositive\bin\Debug\BePositive.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\BePositive\obj\Debug\BePositive.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\BePositive\obj\Debug\BePositive.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Programming Fundamendals\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
