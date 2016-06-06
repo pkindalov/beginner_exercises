@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\HourglassSum\bin\Debug\HourglassSum.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\HourglassSum\bin\Debug\HourglassSum.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\HourglassSum\bin\Debug\HourglassSum.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\HourglassSum\obj\Debug\HourglassSum.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\HourglassSum\obj\Debug\HourglassSum.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\HourglassSum\obj\Debug\HourglassSum.csprojResolveAssemblyReference.cache

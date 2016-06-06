@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ExtractMiddle123Elements\bin\Debug\ExtractMiddle123Elements.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ExtractMiddle123Elements\bin\Debug\ExtractMiddle123Elements.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ExtractMiddle123Elements\bin\Debug\ExtractMiddle123Elements.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ExtractMiddle123Elements\obj\Debug\ExtractMiddle123Elements.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ExtractMiddle123Elements\obj\Debug\ExtractMiddle123Elements.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ExtractMiddle123Elements\obj\Debug\ExtractMiddle123Elements.pdb

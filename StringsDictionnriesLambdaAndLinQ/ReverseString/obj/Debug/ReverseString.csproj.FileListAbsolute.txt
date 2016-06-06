@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ReverseString\obj\Debug\ReverseString.pdb

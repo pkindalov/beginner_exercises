@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ChangeТoUppercase\bin\Debug\ChangeТoUppercase.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ChangeТoUppercase\bin\Debug\ChangeТoUppercase.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ChangeТoUppercase\bin\Debug\ChangeТoUppercase.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ChangeТoUppercase\obj\Debug\ChangeТoUppercase.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ChangeТoUppercase\obj\Debug\ChangeТoUppercase.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\ChangeТoUppercase\obj\Debug\ChangeТoUppercase.pdb

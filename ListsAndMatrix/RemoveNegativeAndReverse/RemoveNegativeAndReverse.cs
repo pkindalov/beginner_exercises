@@ -13,7 +13,7 @@ namespace RemoveNegativeAndReverse
 
             //var nums = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
 
-            var nums = Console.ReadLine().Split(' ').Select(int.Parse).Where(e => e => 0).Reverse());
+            //var nums = Console.ReadLine().Split(' ').Select(int.Parse).Where(e => e => 0).Reverse());
 
             //Console.WriteLine(string.Join(" " , nums));
 

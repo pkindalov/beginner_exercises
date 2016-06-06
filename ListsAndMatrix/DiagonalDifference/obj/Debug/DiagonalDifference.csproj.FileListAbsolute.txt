@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DiagonalDifference\obj\Debug\DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

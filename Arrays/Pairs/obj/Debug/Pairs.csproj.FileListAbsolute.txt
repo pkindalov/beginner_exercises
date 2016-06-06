@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\Pairs\bin\Debug\Pairs.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\Pairs\bin\Debug\Pairs.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\Pairs\bin\Debug\Pairs.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\Pairs\obj\Debug\Pairs.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\Pairs\obj\Debug\Pairs.pdb

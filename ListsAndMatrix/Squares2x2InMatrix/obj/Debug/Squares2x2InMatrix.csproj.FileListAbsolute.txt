@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\Squares2x2InMatrix\bin\Debug\Squares2x2InMatrix.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\Squares2x2InMatrix\bin\Debug\Squares2x2InMatrix.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\Squares2x2InMatrix\bin\Debug\Squares2x2InMatrix.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\Squares2x2InMatrix\obj\Debug\Squares2x2InMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\Squares2x2InMatrix\obj\Debug\Squares2x2InMatrix.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\Squares2x2InMatrix\obj\Debug\Squares2x2InMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb

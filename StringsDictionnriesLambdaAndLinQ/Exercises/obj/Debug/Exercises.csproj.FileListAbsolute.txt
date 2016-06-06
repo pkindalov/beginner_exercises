@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Exercises\bin\Debug\Exercises.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Exercises\bin\Debug\Exercises.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Exercises\obj\Debug\Exercises.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Exercises\obj\Debug\Exercises.pdb

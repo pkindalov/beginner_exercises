@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\DayOfAWeek\bin\Debug\DayOfAWeek.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\DayOfAWeek\bin\Debug\DayOfAWeek.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\DayOfAWeek\bin\Debug\DayOfAWeek.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\DayOfAWeek\obj\Debug\DayOfAWeek.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\DayOfAWeek\obj\Debug\DayOfAWeek.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\DayOfAWeek\obj\Debug\DayOfAWeek.pdb

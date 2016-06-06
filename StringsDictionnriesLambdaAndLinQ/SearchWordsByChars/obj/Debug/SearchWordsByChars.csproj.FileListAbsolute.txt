@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\SearchWordsByChars\bin\Debug\SearchWordsByChars.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\SearchWordsByChars\bin\Debug\SearchWordsByChars.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\SearchWordsByChars\bin\Debug\SearchWordsByChars.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\SearchWordsByChars\obj\Debug\SearchWordsByChars.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\SearchWordsByChars\obj\Debug\SearchWordsByChars.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\SearchWordsByChars\obj\Debug\SearchWordsByChars.pdb

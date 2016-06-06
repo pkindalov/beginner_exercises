@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\IndexОfLetters\bin\Debug\IndexОfLetters.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\IndexОfLetters\bin\Debug\IndexОfLetters.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\IndexОfLetters\bin\Debug\IndexОfLetters.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\IndexОfLetters\obj\Debug\IndexОfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\IndexОfLetters\obj\Debug\IndexОfLetters.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\IndexОfLetters\obj\Debug\IndexОfLetters.pdb

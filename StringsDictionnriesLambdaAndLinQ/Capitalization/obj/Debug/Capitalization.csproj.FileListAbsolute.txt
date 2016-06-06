@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Capitalization\bin\Debug\Capitalization.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Capitalization\bin\Debug\Capitalization.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Capitalization\bin\Debug\Capitalization.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Capitalization\obj\Debug\Capitalization.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Capitalization\obj\Debug\Capitalization.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\Capitalization\obj\Debug\Capitalization.pdb

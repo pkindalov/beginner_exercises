@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.csprojResolveAssemblyReference.cache

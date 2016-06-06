@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\EqualSums\bin\Debug\EqualSums.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\EqualSums\bin\Debug\EqualSums.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\EqualSums\obj\Debug\EqualSums.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\EqualSums\obj\Debug\EqualSums.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\EqualSums\obj\Debug\EqualSums.pdb

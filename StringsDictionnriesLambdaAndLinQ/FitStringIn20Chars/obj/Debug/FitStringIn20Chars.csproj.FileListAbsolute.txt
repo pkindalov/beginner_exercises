@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\FitStringIn20Chars\obj\Debug\FitStringIn20Chars.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\StringsDictionnriesLambdaAndLinQ\FitStringIn20Chars\obj\Debug\FitStringIn20Chars.pdb

@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceEqualElements\bin\Debug\MaxSequenceEqualElements.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceEqualElements\bin\Debug\MaxSequenceEqualElements.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceEqualElements\bin\Debug\MaxSequenceEqualElements.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceEqualElements\obj\Debug\MaxSequenceEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceEqualElements\obj\Debug\MaxSequenceEqualElements.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceEqualElements\obj\Debug\MaxSequenceEqualElements.pdb

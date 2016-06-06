@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixGenerator\bin\Debug\MatrixGenerator.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixGenerator\bin\Debug\MatrixGenerator.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixGenerator\bin\Debug\MatrixGenerator.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixGenerator\obj\Debug\MatrixGenerator.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\MatrixGenerator\obj\Debug\MatrixGenerator.pdb

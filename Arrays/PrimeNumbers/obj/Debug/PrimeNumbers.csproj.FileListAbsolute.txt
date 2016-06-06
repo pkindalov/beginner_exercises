@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

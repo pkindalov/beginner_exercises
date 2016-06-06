@@ -22,6 +22,8 @@ namespace FoldAndSum
             var sum = row1.Select((x, index) => x + row2[index]);
             Console.WriteLine(string.Join(" ", sum));
 
+
+            //Console.Write("/" + new string('-', 20) + "\\");
         }
     }
 }

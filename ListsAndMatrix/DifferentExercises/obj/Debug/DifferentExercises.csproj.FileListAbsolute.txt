@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DifferentExercises\bin\Debug\DifferentExercises.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DifferentExercises\bin\Debug\DifferentExercises.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DifferentExercises\bin\Debug\DifferentExercises.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DifferentExercises\obj\Debug\DifferentExercises.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DifferentExercises\obj\Debug\DifferentExercises.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\ListsAndMatrix\DifferentExercises\obj\Debug\DifferentExercises.pdb

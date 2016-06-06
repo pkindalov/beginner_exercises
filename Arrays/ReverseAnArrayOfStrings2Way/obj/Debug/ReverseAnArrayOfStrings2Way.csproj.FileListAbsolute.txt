@@ -1,0 +1,5 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ReverseAnArrayOfStrings2Way\bin\Debug\ReverseAnArrayOfStrings2Way.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ReverseAnArrayOfStrings2Way\bin\Debug\ReverseAnArrayOfStrings2Way.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ReverseAnArrayOfStrings2Way\bin\Debug\ReverseAnArrayOfStrings2Way.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ReverseAnArrayOfStrings2Way\obj\Debug\ReverseAnArrayOfStrings2Way.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\ReverseAnArrayOfStrings2Way\obj\Debug\ReverseAnArrayOfStrings2Way.pdb

@@ -10,11 +10,16 @@ namespace CompareCharArrays
     {
         static void Main(string[] args)
         {
-            char[] lettersOne = Console.ReadLine().ToCharArray();
-            char[] lettersTwo = Console.ReadLine().ToCharArray();
+            char[] separators =  {' ', ';'};
+            //string[] sentenceOne = Console.ReadLine().Split(separators, StringSplitOptions.RemoveEmptyEntries);
 
-            int bigger = Math.Max(lettersOne.Length, lettersTwo.Length);
-            int minimum = Math.Min(lettersOne.Length, lettersTwo.Length);
+
+            char[] lettersOne = Console.ReadLine().Split(separators, StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
+
+            char[] lettersTwo = Console.ReadLine().Split(separators, StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
+
+            //int bigger = Math.Max(lettersOne.Length, lettersTwo.Length);
+            //int minimum = Math.Min(lettersOne.Length, lettersTwo.Length);
 
 
             //if (lettersOne.Length == lettersTwo.Length)
@@ -37,9 +42,39 @@ namespace CompareCharArrays
             {
                 for (int b = 0; b < lettersTwo.Length; b++)
                 {
-                    if (lettersOne[a] == lettersTwo[b] && a < lettersOne.Length - 1)
+                    if (a == lettersOne.Length - 1)
                     {
-                        //да проверя дължините
+                        if (lettersOne.Length < lettersTwo.Length)
+                        {
+                            Console.WriteLine(string.Join("", lettersOne));
+                            Console.WriteLine(string.Join("", lettersTwo));
+                            break;
+                        }
+                        else if (lettersTwo.Length < lettersOne.Length)
+                        {
+                            Console.WriteLine(string.Join("", lettersTwo));
+                            Console.WriteLine(string.Join("", lettersOne));
+                            break;
+                        }
+                       
+                    }
+                    //if (lettersOne[a] == lettersTwo[b] && a < lettersOne.Length - 1)
+                    //{
+                    //    continue;
+                    //    //да проверя дължините
+                    //}
+
+                    if (lettersOne[a] < lettersTwo[b])
+                    {
+                        Console.WriteLine(string.Join("", lettersOne));
+                        Console.WriteLine(string.Join("", lettersTwo));
+                        return;
+                    }
+                    else
+                    {
+                        Console.WriteLine(string.Join("", lettersTwo));
+                        Console.WriteLine(string.Join("", lettersOne));
+                        return;
                     }
                 }
             }

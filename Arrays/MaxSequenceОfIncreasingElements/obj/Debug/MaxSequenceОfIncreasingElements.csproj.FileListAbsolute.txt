@@ -1,0 +1,6 @@
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceОfIncreasingElements\bin\Debug\MaxSequenceОfIncreasingElements.exe.config
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceОfIncreasingElements\bin\Debug\MaxSequenceОfIncreasingElements.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceОfIncreasingElements\bin\Debug\MaxSequenceОfIncreasingElements.pdb
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceОfIncreasingElements\obj\Debug\MaxSequenceОfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceОfIncreasingElements\obj\Debug\MaxSequenceОfIncreasingElements.exe
+C:\Users\Genoveva\Documents\Visual Studio 2015\Projects\Arrays\MaxSequenceОfIncreasingElements\obj\Debug\MaxSequenceОfIncreasingElements.pdb
